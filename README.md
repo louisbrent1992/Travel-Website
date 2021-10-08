@@ -1,10 +1,10 @@
-# Recipe-App
+# Travel Website
 
 Front-end recipe list application where users can create a recipe list, also edit, remove and add recipes as desired:
 
 <div align="center">
   <kbd>
-    <img src="./src/images/recipe-app.jpg" />
+    <img src="./src/images/travel-website.jpg" />
   </kbd>
 </div>
 
