@@ -20,7 +20,9 @@ Longer description explaining the rationale/intent behind the project, what it's
 - React
 - Bootstrap 4
 
-## Getting started
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
