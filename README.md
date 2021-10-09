@@ -1,6 +1,6 @@
 # Travel Website
 
-Front-end recipe list application where users can create a recipe list, also edit, remove and add recipes as desired:
+Fully responsive React travel website:
 
 <div align="center">
   <kbd>
@@ -14,23 +14,13 @@ Longer description explaining the rationale/intent behind the project, what it's
 
 ### Features
 
-- Create a recipe list
-- Edit individual recipes 
-- Remove and add recipes
-- Update or remove ingredients
-
+- 
 ### Built with
 
 - React
 - Bootstrap 4
 
-### License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting started
 
 ## Available Scripts
 
@@ -69,36 +59,25 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-## Back matter
-
 ### Legal disclaimer
 
 Usage of this tool for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ### Acknowledgements
 
-WebDevSimplified.
-
-### See also
-
-- [A simple README.md template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-- [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-- [A sample README for all your GitHub projects](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-- [A simple README.md template to kickstart projects](https://github.com/me-and-company/readme-template)
+Brian Design.
 
 ### To-do
 
-- [ ] Insert app functionality
-- [ ] ~~Decided not to do this~~
-- [x] Visual styling is done!
-
-
+- [x] Creating React app in terminal
+- [x] Getting the source files
+- [x] Creating the Button Component
+- [x] Creating the Hero Component
+- [x] Creating our Pages
+- [x] Creating the Card Components
+- [ ] Creating the Footer Component
+- [x] Replace Video Background with Image
+- [x] Done!
 
 ### Code Splitting
 
