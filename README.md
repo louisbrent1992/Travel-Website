@@ -1,3 +1,25 @@
+# Travel Website
+
+Fully responsive React travel website:
+
+<div align="center">
+  <kbd>
+    <img src="./src/images/travel-website.jpg" />
+  </kbd>
+</div>
+
+## Description
+
+Longer description explaining the rationale/intent behind the project, what it's good for, and how it works. If the next two subsections are short enough, they can be merged up into this block—perhaps as bulleted lists.
+
+### Features
+
+- 
+### Built with
+
+- React
+- Bootstrap 4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,11 +61,25 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Legal disclaimer
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Usage of this tool for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Acknowledgements
+
+Brian Design.
+
+### To-do
+
+- [x] Creating React app in terminal
+- [x] Getting the source files
+- [x] Creating the Button Component
+- [x] Creating the Hero Component
+- [x] Creating our Pages
+- [x] Creating the Card Components
+- [ ] Creating the Footer Component
+- [x] Replace Video Background with Image
+- [x] Done!
 
 ### Code Splitting
 
