@@ -10,11 +10,12 @@ Fully responsive React travel website:
 
 ## Description
 
-Longer description explaining the rationale/intent behind the project, what it's good for, and how it works. If the next two subsections are short enough, they can be merged up into this block—perhaps as bulleted lists.
+Basic travel website template created using React, CSS, and Bootstrap 4.
 
 ### Features
-
-- 
+- Header - components contain a navbar that's resizable, and links to designated pages on the website.
+- HeroSection - Greets the user with an animated background.
+- Footer
 ### Built with
 
 - React
@@ -77,7 +78,7 @@ Brian Design.
 - [x] Creating the Hero Component
 - [x] Creating our Pages
 - [x] Creating the Card Components
-- [ ] Creating the Footer Component
+- [x] Creating the Footer Component
 - [x] Replace Video Background with Image
 - [x] Done!
 
