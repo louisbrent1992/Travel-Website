@@ -1,7 +1,25 @@
 {
-    "cSpell.words": [
-        "btns",
-        "TRVL",
-        "webfonts"
-    ]
+  "cSpell.words": [
+    "btns",
+    "TRVL",
+    "webfonts"
+  ],
+  "editor.acceptSuggestionOnEnter": "off",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "plaintext": "pug"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "files.exclude": {
+    "node_modules": true,
+    "src\\videos": true,
+    "src\\images": true,
+    "public": true
+  },
+  "editor.suggest.preview": true,
+  "editor.suggest.shareSuggestSelections": true,
+  "files.autoSave": "onFocusChange",
+  "editor.snippetSuggestions": "bottom",
+  "editor.inlineSuggest.enabled": false
 }
