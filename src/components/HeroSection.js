@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import { video1, video2 } from "../videos";
+import { video1 } from "../videos";
 import { Button } from "./Button";
 import "./HeroSection.css";
 
